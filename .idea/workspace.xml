@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3c374f35-5c2f-45fd-8dd8-adee36ef6b41" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Section10/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section10/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section10/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section10/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section10/Section10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section12/src/Lesson1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section12/src/Lesson1/Theatre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section12/src/Lesson2/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section12/src/Lesson2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section12/src/Lesson2/Theatre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section12/src/Lesson3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section12/src/Lesson3/Show.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section12/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section14/src/Exceptions/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section14/src/StackTraceNCallStack/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Introduction/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section16/src/Introduction/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section9/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section9/out/production/Section9/Hello.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section9/out/production/Section9/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section9/out/production/Section9/com/Abstraction/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section9/out/production/Section9/com/Abstraction/Bird.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section9/out/production/Section9/com/Abstraction/CanFly.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section9/out/production/Section9/com/Abstraction/Dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section9/out/production/Section9/com/Abstraction/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section9/out/production/Section9/com/Abstraction/Parrot.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section9/out/production/Section9/com/Abstraction/Penguin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section9/out/production/Section9/com/AbstractionChallenge/ListItem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section9/out/production/Section9/com/AbstractionChallenge/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section9/out/production/Section9/com/AbstractionChallenge/MyLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section9/out/production/Section9/com/AbstractionChallenge/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section9/out/production/Section9/com/AbstractionChallenge/NodeList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section9/out/production/Section9/com/Challenge/Album$SongList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section9/out/production/Section9/com/Challenge/Album.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section9/out/production/Section9/com/Challenge/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section9/out/production/Section9/com/Challenge/Song.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section9/out/production/Section9/com/innerClasses/Button$OnClickListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section9/out/production/Section9/com/innerClasses/Button.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section9/out/production/Section9/com/innerClasses/Gearbox$Gear.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section9/out/production/Section9/com/innerClasses/Gearbox.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section9/out/production/Section9/com/innerClasses/Main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section9/out/production/Section9/com/innerClasses/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section9/src/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section9/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section9/src/com/Abstraction/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section9/src/com/Abstraction/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section9/src/com/Abstraction/CanFly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section9/src/com/Abstraction/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section9/src/com/Abstraction/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section9/src/com/Abstraction/Parrot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section9/src/com/Abstraction/Penguin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section9/src/com/AbstractionChallenge/ListItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section9/src/com/AbstractionChallenge/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section9/src/com/AbstractionChallenge/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section9/src/com/AbstractionChallenge/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section9/src/com/AbstractionChallenge/NodeList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section9/src/com/Challenge/Album.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section9/src/com/Challenge/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section9/src/com/Challenge/Song.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section9/src/com/innerClasses/Button.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section9/src/com/innerClasses/Gearbox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section9/src/com/innerClasses/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ByteShortInt" beforeDir="false" afterPath="$PROJECT_DIR$/../ByteShortInt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CharAndBoolean" beforeDir="false" afterPath="$PROJECT_DIR$/../CharAndBoolean" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FloatAndDouble" beforeDir="false" afterPath="$PROJECT_DIR$/../FloatAndDouble" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Section4" beforeDir="false" afterPath="$PROJECT_DIR$/../Section4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Section5" beforeDir="false" afterPath="$PROJECT_DIR$/../Section5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Section6" beforeDir="false" afterPath="$PROJECT_DIR$/../Section6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Section7" beforeDir="false" afterPath="$PROJECT_DIR$/../Section7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Section7_master_challenge_2" beforeDir="false" afterPath="$PROJECT_DIR$/../Section7_master_challenge_2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Section8" beforeDir="false" afterPath="$PROJECT_DIR$/../Section8" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Section8_array_list_challenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Section8_array_list_challenge/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Section9/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Section9/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Section9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Section9/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Strings" beforeDir="false" afterPath="$PROJECT_DIR$/../Strings" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Introduction/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Introduction/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Section15" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Section15" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Section15" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Section15" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Section15" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Section15" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Introduction" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c374f35-5c2f-45fd-8dd8-adee36ef6b41" name="Default Changelist" comment="" />
+      <created>1565627173013</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565627173013</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2832618" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="0" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32953367" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info active="true" anchor="bottom" x="-1902" y="644" width="918" height="317" id="Run" order="10" side_tool="true" visible="true" weight="0.3284974" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Introduction/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
